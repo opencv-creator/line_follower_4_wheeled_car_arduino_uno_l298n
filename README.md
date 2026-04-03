@@ -3,8 +3,9 @@ line_follower_4_wheeled_car_arduino_uno_l298n
 
 CREDITS:
 -----------------------------------------------------------------------------------------
-this code is obrained from this website
-https://projecthub.arduino.cc/lightthedreams/line-following-robot-34b1d3
+this code is obrained from this website (it has some issues where some times the robot gets stuck after coming out of the line)
+
+https://www.youtube.com/watch?v=hHvGpbeHwXE&list=PLNlGfOpbU1otd4UpPlZKb6BHyrvKKH1et&index=183
 
 -----------------------------------------------------------------------------------------
 IMPORTANT 
